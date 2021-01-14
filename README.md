@@ -1,2 +1,2 @@
 # cmdr
-desktop launcher design
+desktop launcher concept
