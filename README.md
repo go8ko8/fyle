@@ -2,4 +2,4 @@
 if it makes any sense :)
 
 # cmd1
-command line with extensions
+a command line with extensions
