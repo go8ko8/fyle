@@ -1,4 +1,4 @@
-# essays
+# notes
 
 <a href="https://github.com/kosengan/essays/blob/master/exocortex.md">exocortex</a> <br>
 <a href="https://github.com/kosengan/essays/blob/master/exploratory%20programming.md">exploratory programming</a> <br>
