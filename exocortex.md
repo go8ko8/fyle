@@ -2,7 +2,7 @@ title: exocortex <br>
 author: kosengan <br>
 license: Creative Commons <br>
 created: 19th jun 2021, 15:39 <br>
-updated: 19th jun 2021, 16:02 <br>
+updated: 28th jun 2021, 08:45 <br>
 body: <br>
 > "An exocortex is formed by “any mental memory or processing component that resides outside your physical brain.” 
 
@@ -20,3 +20,6 @@ body: <br>
 > The goal of an exocortex is to get organised and not forget things
 
 -- <a href="https://www.youtube.com/watch?v=gDHE23vl9E0">Enhancing your focus with OrgMode</a>
+
+<a href="https://karl-voit.at/2020/06/14/Zettelkasten-concerns">Zettelkasten/Org-roam/Org-brain Is Crap</a> <br>
+- The article explains concerns regarding Multiple Zettelkasten-Domains, Search, Complexity, Mobile Usage, No Radio Links for Glossary, Performance, Split Brain Issues and Surfing Concepts
