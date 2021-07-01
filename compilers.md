@@ -1,4 +1,4 @@
-title: exploring exploratory programming
+title: compilers
 author: kosengan
 license: Creative Commons
 created: 01st jul 2021, 13:13
