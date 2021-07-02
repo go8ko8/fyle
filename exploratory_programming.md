@@ -2,7 +2,7 @@ title: exploring exploratory programming <br>
 author: kosengan <br>
 license: Creative Commons <br>
 created: 14 jun 2021, 16:36 <br>
-updated: 02 jul 2021, 17:10 <br>
+updated: 02 jul 2021, 17:19 <br>
 body:
 * writing works both ways; in terms of understanding something that already exists(knowledge) as well as generating something new(ideas)
 <br>** it can applied to programming as well
