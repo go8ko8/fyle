@@ -37,3 +37,6 @@ development lifecycles of the time to experimental AI code
 
 - I like to associate or further expand on the idea of exploratory programming with the notion of "Automatic Drawing"
 - One of the good videos that has been my go to source for Automatic Drawing is this: <a href="https://www.youtube.com/watch?v=MJYGFwGhHnA">Meditation for Artists - The Automatic Drawing Technique"</a>
+- Interestingly, programming generative art itself is better suited for exploratory programming --that is still subjective
+- for some people, it could be creating a video game; for some other people it could be, creating a web application or solving problems etc.,
+- but for someone is wondering what to pickup as a way to do exploratory programming I would suggest generative art and reimplementing
