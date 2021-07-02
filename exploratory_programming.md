@@ -1,8 +1,8 @@
 title: exploring exploratory programming <br>
 author: kosengan <br>
 license: Creative Commons <br>
-created: 14th jun 2021, 16:36 <br>
-updated: 20th jun 2021, 10:21 <br>
+created: 14 jun 2021, 16:36 <br>
+updated: 02 jul 2021, 17:10 <br>
 body:
 * writing works both ways; in terms of understanding something that already exists(knowledge) as well as generating something new(ideas)
 <br>** it can applied to programming as well
@@ -15,7 +15,7 @@ body:
     can inspect the printed result before deciding what expression to provide for the next read. 
     The read–eval–print loop involves the programmer more frequently than the classic edit–compile–run–debug cycle." 
     - <a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop">Read–eval–print loop</a>
------
+------
 20 jun 2021
 * > In open-ended tasks where a program’s behavior
 cannot be specified in advance, exploratory programming is a key
@@ -30,3 +30,10 @@ Systems, who struggled with applying rigid software
 development lifecycles of the time to experimental AI code
 
     -- Mary Beth Kery & Brad A. Myers, <a href="http://www.cs.cmu.edu/~NatProg/papers/p025-kery-vlhcc2017exp-prog.pdf">Exploring Exploratory Programming</a>
+
+------
+
+02 jul 2021
+
+- I like to associate or further expand on the idea of exploratory programming with the notion of "Automatic Drawing"
+- One of the good videos that has been my go to source for Automatic Drawing is this: <a href="https://www.youtube.com/watch?v=MJYGFwGhHnA">Meditation for Artists - The Automatic Drawing Technique"</a>
