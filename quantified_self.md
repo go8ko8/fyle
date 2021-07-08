@@ -4,6 +4,7 @@ license: Creative Commons <br>
 created: 19th jun 2021, 15:39 <br>
 updated: 28th jun 2021, 10:46 <br>
 body: <br>
+### exocortex 
 > "An exocortex is formed by “any mental memory or processing component that resides outside your physical brain.” 
 
 -- Andy Hunt, Pragmatic Thinking and Learning: Refactor Your Wetware
