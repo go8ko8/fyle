@@ -1,4 +1,4 @@
-title: exocortex <br>
+title: quantified_self <br>
 author: kosengan <br>
 license: Creative Commons <br>
 created: 19th jun 2021, 15:39 <br>
